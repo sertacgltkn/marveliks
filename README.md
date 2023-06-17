@@ -1,5 +1,9 @@
 # my-project
 
+## ScreenShots
+
+![Marveliks](/screenshots/Marvelix.jpg)
+
 ## Project setup
 ```
 npm install
